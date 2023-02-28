@@ -2,6 +2,10 @@
 
 Portfolio containing the projects from CS-320 Software Test Automation.
 
+- [Application Services](../src/services)
+- [Service Tests](../src/test)
+- [Report](./Summary%20and%20Reflections%20Report.pdf)
+
 ## Reflection
 
 ### How can I ensure that my code, program, or software is functional and secure?
